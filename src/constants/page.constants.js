@@ -1,0 +1,5 @@
+export const pageConstants = {
+    GET_PAGE_REQUEST: "GET_PAGE_REQUEST",
+    GET_PAGE_SUCCESS: "GET_PAGE_SUCCESS",
+    GET_PAGE_FAILURE: "GET_PAGE_FAILURE"
+}
